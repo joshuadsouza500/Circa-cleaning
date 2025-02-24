@@ -2,7 +2,7 @@
 
 const About = () => {
   return (
-    <section id='About' >
+    <section id='About' className="bg-[#E6DEDE8]" >
       <h2 className='text-5xl text-center font-bold py-5 my-3'>About Us</h2>
       <div className='flex flex-col-reverse sm:flex-row justify-center items-center gap-8'>
       <p className='text-2xl text-slate-800 m-2 max-w-md'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
