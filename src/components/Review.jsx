@@ -8,7 +8,7 @@ const Review = () => {
           <p className='text-2xl sm:text-4xl font-sans max-w-5xl text-white py-8 my-2 text-left '> 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
         </p>
-                <p className="italic text-lg sm:text-xl text-right mt-2 text-slate-200">
+                <p className="italic text-lg sm:text-xl text-right mt-2 text-[#AF7E67]">
                     —Steve Robin
                 </p>
         </div>
